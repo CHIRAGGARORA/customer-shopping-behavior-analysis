@@ -125,6 +125,7 @@ customer-shopping-behavior-analysis/
 ├── Customer Behavior Dashboard.pdf
 ├── Business_Problem_Document_Final.pdf
 ├── Customer_Shopping_Behavior_Project_Report.pdf
+├── Customer-Shopping-Behavior-Analysis.pptx
 ├── dashboard_screenshot.png
 └── README.md
 ```
